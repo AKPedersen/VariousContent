@@ -1,1 +1,1 @@
-This is a simple test of a github setup, nothing to see here.
+This is a simple test of a github setup, nothing to see here.\n 2
